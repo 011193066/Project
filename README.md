@@ -1,2 +1,2 @@
 # Project
-this reppositry contens asimpl HTML page
+this repositry contens asimpl HTML page
